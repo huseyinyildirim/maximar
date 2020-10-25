@@ -1,0 +1,15 @@
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\maximar_com_tr.WebUI.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\maximar_com_tr.WebUI.pdb
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\CKEditor.NET.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\Elmah.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\EntityFramework.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\MySql.Data.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\MySql.Data.Entity.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\Recaptcha.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\EntityFramework.xml
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\bin\Recaptcha.pdb
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\obj\Debug\maximar_com_tr.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\obj\Debug\maximar_com_tr.WebUI.dll
+C:\Users\huseyinyildirim\Desktop\Inetpub\maximar_com_tr\maximar_com_tr.WebUI\obj\Debug\maximar_com_tr.WebUI.pdb

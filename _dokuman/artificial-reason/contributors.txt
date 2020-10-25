@@ -1,0 +1,4 @@
+Contributors
+------------
+
+* Adrián Guerra Marrero - Main Developer
